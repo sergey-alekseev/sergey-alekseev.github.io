@@ -17,8 +17,9 @@
 			<textarea name="message" placeholder="Your message..." class="contact-form__textarea"></textarea>
 		</div>
 
-		<input type="hidden" name="_next" value="{{ site.data.settings.contact_settings.confirmation_url }}" />
+		<!-- <input type="hidden" name="_next" value="{{ site.data.settings.contact_settings.confirmation_url }}" /> -->
 		<input type="hidden" name="_subject" value="{{ site.data.settings.contact_settings.email_subject }}" />
+		<!-- https://help.formspree.io/hc/en-us/articles/360013580813-Honeypot-spam-filtering -->
 		<input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val="">
 
 		<div class="contact-form__item">
