@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Simples
-  site_tagline: A super simple blogging theme for Jekyll.
+  site_title: Sergey Alekseev
+  site_tagline: Developer, traveller, entrepreneur, dreamer
   favicon_image: /images/favicon.png
 
 header_settings:
