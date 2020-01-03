@@ -27,7 +27,7 @@ contact_settings:
   # Available on: Gold, Platinum plans
   # Source: https://help.formspree.io/hc/en-us/articles/360012378333--Thank-You-redirect
   # confirmation_url: ''
-  email_subject: 'Contact form submission on sergeyalekseev.by'
+  email_subject: 'Contact form submission on sergeyalekseev.com'
   send_button_text: 'Send Message'
 
 social_settings:
@@ -39,12 +39,12 @@ social_settings:
   twitter_url: 'https://twitter.com/AlexeevS'
   medium-m_url: 'https://medium.com/@sergey.alekseev'
   instagram_url: 'https://www.instagram.com/realsergeyalekseev/'
-  facebook-f_url: 'https://www.facebook.com/sergeyalekseev.by'
+  facebook-f_url: 'https://www.facebook.com/sergeyalekseev.com'
   quora_url: 'https://www.quora.com/profile/Sergey-Alekseev'
   skype_url: 'skype:sergey.alekseev.minsk?chat'
-  vk_url: 'https://vk.com/sergeyalekseev_by'
+  vk_url: 'https://vk.com/sergeyalekseev_com'
   telegram-plane_url: 'https://t.me/AlexeevS'
-  facebook-messenger_url: 'https://m.me/sergeyalekseev.by'
+  facebook-messenger_url: 'https://m.me/sergeyalekseev.com'
 
 color_settings:
   background_color: '#ffffff'
