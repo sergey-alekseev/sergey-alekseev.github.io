@@ -50,7 +50,7 @@
 	<style>{{ site.data.settings.advanced_settings.custom_styles }}</style>
 	{% endif %}
 
-	{% if site.data.settings.advanced_settings.analytics_code %}
+	{% if site.data.settings.advanced_settings.analytics_code and jekyll.environment != 'development' %}
 	<!-- Analytics Code -->
 	{{ site.data.settings.advanced_settings.analytics_code }}
 	{% endif %}
