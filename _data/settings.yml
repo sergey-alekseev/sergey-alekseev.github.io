@@ -14,10 +14,12 @@ menu_settings:
     #   url: '/'
     # - title: 'Projects'
     #   url: '/projects/'
-    - title: 'About'
-      url: '/about'
+    - title: 'Open Source'
+      url: '/open-source'
     - title: 'Contact'
       url: '/contact'
+    - title: 'About'
+      url: '/about'
 
 grid_settings:
   grid_spacing: 10
