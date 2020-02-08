@@ -14,6 +14,8 @@ menu_settings:
     #   url: '/'
     # - title: 'Projects'
     #   url: '/projects/'
+    - title: 'Travel'
+      url: '/travel'
     - title: 'Open Source'
       url: '/open-source'
     - title: 'Contact'
