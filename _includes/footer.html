@@ -1,6 +1,12 @@
 <footer class="footer">
 
-	{% include socials.html %}
+  {% assign social_contacts = site.data.settings.basic_social_contacts %}
+  {% if page.url contains '/open-source' %}
+    {% assign social_contacts = site.data.settings.dev_social_contacts %}
+  {% elsif page.url contains '/contact'  %}
+    {% assign social_contacts = site.data.settings.all_social_contacts %}
+  {% endif %}
+	{% include socials.html social_contacts=social_contacts %}
 
 	<div class="footer__copyright">
 		<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</span>

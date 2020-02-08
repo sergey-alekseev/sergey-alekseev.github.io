@@ -34,7 +34,22 @@ contact_settings:
   email_subject: 'Contact form submission on sergeyalekseev.com'
   send_button_text: 'Send Message'
 
-social_settings:
+basic_social_contacts:
+  github_url: 'https://github.com/sergey-alekseev'
+  gitlab_url: 'https://gitlab.com/sergey-alekseev'
+  twitter_url: 'https://twitter.com/AlexeevS'
+  instagram_url: 'https://www.instagram.com/realsergeyalekseev/'
+  facebook-f_url: 'https://www.facebook.com/sergeyalekseev.com'
+
+dev_social_contacts:
+  github_url: 'https://github.com/sergey-alekseev'
+  gitlab_url: 'https://gitlab.com/sergey-alekseev'
+  stack-overflow_url: 'https://stackoverflow.com/users/1085570/sergey-alekseev'
+  linkedin-in_url: 'https://www.linkedin.com/in/alexeevs/'
+  slideshare_url: 'https://www.slideshare.net/SergeyAlekseev1'
+  twitter_url: 'https://twitter.com/AlexeevS'
+
+all_social_contacts:
   github_url: 'https://github.com/sergey-alekseev'
   gitlab_url: 'https://gitlab.com/sergey-alekseev'
   stack-overflow_url: 'https://stackoverflow.com/users/1085570/sergey-alekseev'
@@ -148,7 +163,7 @@ font_settings:
     letter_spacing: 0
 
 advanced_settings:
-  ajax_loading: true
+  ajax_loading: false
   analytics_code: |
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-158040892-1"></script>
