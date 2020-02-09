@@ -9,21 +9,21 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
-	padding-top: 30px;
+	// padding-top: 30px;
 	text-align: center;
 
-	@include mq(tabletp) {
-		padding-top: 60px;
-	}
+	// @include mq(tabletp) {
+	// 	padding-top: 60px;
+	// }
 
-	@include mq(laptop) {
-		padding-top: 80px;
-	}
+	// @include mq(laptop) {
+	// 	padding-top: 80px;
+	// }
 }
 
 .header__avatar {
 	display: block;
-	margin: 0 auto 20px;
+	margin: 20px auto 20px;
 	border-radius: 100%;
 	width: 100px;
 	overflow: hidden;
@@ -31,6 +31,7 @@
 
 	@include mq(tabletp) {
 		width: 150px;
+		margin-top: 25px;
 		margin-bottom: 25px;
 	}
 
@@ -137,7 +138,7 @@
 	@include mq(laptop) {
 		font-size: $menu-large;
 	}
-	
+
 	&.active-link {
 		border-bottom-color: $accent-color;
 	}

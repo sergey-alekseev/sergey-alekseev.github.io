@@ -10,16 +10,16 @@
 
 .footer {
 	@include transition(all 0.6s cubic-bezier(.87,-.41,.19,1.44));
-	padding: 30px 0;
+	padding: 20px 0;
 	text-align: center;
 
 	@include mq(tabletp) {
-		padding: 60px 0;
+		padding: 25px 0;
 	}
 
-	@include mq(laptop) {
-		padding: 80px 0;
-	}
+	// @include mq(laptop) {
+	// 	padding: 80px 0;
+	// }
 }
 
 .footer__copyright {
@@ -28,9 +28,9 @@
 	font-size: 13px;
 	color: $text-light-color;
 
-	@include mq(tabletp) {
-		margin-top: 20px;
-	}
+	// @include mq(tabletp) {
+	// 	margin-top: 20px;
+	// }
 
 	a {
 		margin-left: 10px;
