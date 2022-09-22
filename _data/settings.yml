@@ -1,7 +1,6 @@
 basic_settings:
   site_title: Sergey Alekseev
   site_tagline: Developer, traveler, entrepreneur, dreamer
-  favicon_image: /images/favicon.png
 
 header_settings:
   avatar_image: /images/avatar.jpg
