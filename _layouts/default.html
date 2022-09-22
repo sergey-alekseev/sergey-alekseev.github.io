@@ -28,10 +28,12 @@
 	<meta name="theme-color" content="#ffffff">
 
 	<!-- Twitter Card -->
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}">
-	<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt }}{% endif %}">
-	<meta name="twitter:image:src" content="{{ site.url }}{{ page.featured_image }}">
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@AlexeevS" />
+	<meta name="twitter:creator" content="@AlexeevS" />
+	<meta name="twitter:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" />
+	<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt }}{% endif %}" />
+	<meta name="twitter:image:src" content="https://sergeyalekseev.com/images/facebook.jpg" />
 
 	<!-- Facebook OpenGraph -->
 	<meta property="og:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" />
