@@ -1,5 +1,8 @@
 site: Sergey Alekseev's Website
 
+url: https://sergeyalekseev.com
+baseurl:
+
 collections:
   pages:
     output: true
