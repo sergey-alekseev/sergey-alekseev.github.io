@@ -1,0 +1,2 @@
+- replace featured_image: /images/demo/demo-landscape.jpg
+- add emojis e.g. to menu points
