@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/sergeyalekseev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sergeyalekseev.com
+  * I am sergeyalekseev (https://keybase.io/sergeyalekseev) on keybase.
+  * I have a public key with fingerprint 2D4B 460A 441B D5A9 F42E  97A9 781C 4863 C8D7 8D81
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010167a5ad90562f6f045266928bcf75c2e7990ff1b40baf9b3e74ec298a5abc724a0a",
+      "fingerprint": "2d4b460a441bd5a9f42e97a9781c4863c8d78d81",
+      "host": "keybase.io",
+      "key_id": "781c4863c8d78d81",
+      "kid": "010167a5ad90562f6f045266928bcf75c2e7990ff1b40baf9b3e74ec298a5abc724a0a",
+      "uid": "3600452f691b7a09dc2b1e55c974f019",
+      "username": "sergeyalekseev"
+    },
+    "service": {
+      "hostname": "sergeyalekseev.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1677500718,
+  "expire_in": 157680000,
+  "prev": "b34b03008f3a8f06c8e932d18877dacc363aee6e49bdbfc30699725bfb19594f",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QVFUYXmAhYSKKGkvchryCOu2y3u+PNUETyEkHGXRqjcbl3HvP3b2w7F12
+l49VkGzSECVQsfhopihtQENKDK0mgyEMgyiZFUnUBNPAGTWFGVsV6l4m//mz8+ec
+857nec7zvPPWRIfp5oSUGFYLveeqtoX0TfA64UETuwXhFdGPWLYgeXB2g04Ren22
+PFlELAiKoRjNAAqIHErRuERLKEnhNM3hLC9IDCXgkOE4VJIwnkR5IHE8ARkSCjjH
+qiReYHASoAAxIZLsskOP2yO7fKosLpI8SaOAJDFepAAnkTjkGMAxLCaQLE0IrMiw
+IoupRIfi1RiqOR54oVlW1Jp6sc3aewT+f/ZdOCtH0KjGl2gO4xmAcqKA8xikKIFj
+SAnFOA3ohR4XyIcqWj3ZoR84YZ4XwiKkzKRVimQBau3V8jwSZxaUfFXH7VF8iqA4
+1XeHz+f2WjS+z+/WCMWQt/0nZeNll6j2VGUUQY9XVlyIBVORgk/WtNXwDIWiDMaa
+EFjilj3QJmsIiqFZVF3aP6LqzYLwBMmjBIqyEgFYCaUFFnIELmIsyzAiEASCJgCE
+NCQ5XuQlgUBpjmNwipd4jKM4UkK0dAUuBbHQqk9g13LJdhfwFXogUha1M5TQ60Lm
+6J6fu0CftCY9KnX+2ZYp8wctD+cwPFQbQl1U5JMPK8siYoIhhorgqeptsYlh0zuo
+Mnv4+JGhC4q/L4HNejZ3U3v6XSHs+ubxe42G3WO3LsAq67Kcmt+IDXHOzmfYLPB1
+ec41Yt3a4ivR8dXPbb+9K+UOuHpy64u/3owrb6h+Y2g0SR45/9SrV6Ul0+2fnojJ
+KTv0ySsl2R8dXrg/oOgjXL8nJa5sr9sIrqVWbYy6fLwzceHiVZUTU4umdjel6eBA
+dce4cWhYl16XVrs07XhHApN4kbn/vdM5Xwaj/SMpzX/s/WVPQwx+xz8S7Yql565t
+e03ftCbw5jfTBv+GjNIjp+KtNDztGBRWTtLrBz+7fuandt2i5vbQSuvh2gLr/aPZ
+JaOM9+gKT8rwxa7SYDDrGNvw4Iex8lvv9mzes/r2pdLMZPye+0ygP/vPgz325d8O
+1lvt3cillr6tvq/M0fqhrgO73ne8XpAw6tEfPG/KNHR4u40FXd99MbL348an/7kR
+nJl5KWws3BCbbG02fkhVlLSZWmHogsuBky/0My2NP1Ny/V/DGfkxq07kOvJap0zJ
+BywFSWPvfV5Y5qiZTqvrjV8h1i3PD8nVR0oZL2/v/nvnj++cG+vseavWLHnSAtFM
+qz7TuONs/76bKQNXrIFuS8bieWTl0P6JXuOxTftiK9yPR9w9rc9cfygJnbdkpn7y
+y0lrnOK+kdr0dtZjlrripW3GdWhH5ECw8InifwE=
+=0kV7
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sergeyalekseev
+
+==================================================================
