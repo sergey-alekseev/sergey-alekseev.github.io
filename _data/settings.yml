@@ -63,6 +63,9 @@ all_social_contacts:
   vk_url: 'https://vk.com/sergeyalekseev_com'
   telegram-plane_url: 'https://t.me/AlexeevS'
   facebook-messenger_url: 'https://m.me/sergeyalekseev.com'
+  reddit: 'https://www.reddit.com/user/sergey-alekseev/'
+  keybase: 'https://keybase.io/sergeyalekseev'
+  hacker-news: 'https://news.ycombinator.com/user?id=sergey-alekseev'
 
 color_settings:
   background_color: '#ffffff'
